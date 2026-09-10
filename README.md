@@ -1,8 +1,8 @@
 # Counterexamples for BFGS-type methods under arbitrary strong Wolfe constants
 
-Companion Python package for the paper
+Companion Python package for
 
-> Rui Diao, *Counterexamples for BFGS-type methods under arbitrary strong Wolfe constants*
+> Rui Diao, *Counterexamples for BFGS-type methods under arbitrary strong Wolfe constants*, [arXiv:2609.09686](https://arxiv.org/abs/2609.09686), 2026.
 
 Repository: https://github.com/diaorui/bfgs-wolfe-counterexample
 
